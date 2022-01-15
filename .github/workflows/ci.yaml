@@ -51,5 +51,5 @@ jobs:
         # use temporary directory cleaned up after every job
         run: pytest --basetemp={runner.temp} --cov=./ --cov-report xml
       - name: Upload coverage on success
-        uses: codecov/codecov-action@v1
+        uses: codecov/codecov-action@v2.1.0
         if: ${{ success() }}
