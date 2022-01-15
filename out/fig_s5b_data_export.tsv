@@ -1,0 +1,802 @@
+participant	exposure	timepoint	ratio_numerator_strain	ratio_denominator_strain	ratio_value
+VariantInfection_10	Variant Infection - Alpha	day 28 / week 4	Wuhan	Alpha	0.897777
+VariantInfection_10	Variant Infection - Alpha	day 28 / week 4	Wuhan	B.1.526.2	1.1554549
+VariantInfection_10	Variant Infection - Alpha	day 28 / week 4	Wuhan	Beta	2.2375052
+VariantInfection_10	Variant Infection - Alpha	day 28 / week 4	Wuhan	Delta	1.6375698
+VariantInfection_10	Variant Infection - Alpha	day 28 / week 4	Wuhan	Epsilon	1.2803546
+VariantInfection_10	Variant Infection - Alpha	day 28 / week 4	Wuhan	Gamma	1.4584786
+VariantInfection_10	Variant Infection - Alpha	day 28 / week 4	Wuhan	Iota	1.6140926
+VariantInfection_10	Variant Infection - Alpha	day 28 / week 4	Wuhan	Kappa	1.2429494
+VariantInfection_10	Variant Infection - Alpha	day 28 / week 4	Wuhan	P.3	1.529394
+VariantInfection_104	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	3.6143441
+VariantInfection_104	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.1045606
+VariantInfection_104	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	10.721328
+VariantInfection_104	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.6205498
+VariantInfection_104	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.63653606
+VariantInfection_104	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	3.8081484
+VariantInfection_104	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	2.0130677
+VariantInfection_104	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.66787416
+VariantInfection_104	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	12.26198
+VariantInfection_11	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	1.5264199
+VariantInfection_11	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.2455645
+VariantInfection_11	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	4.124524
+VariantInfection_11	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.44393206
+VariantInfection_11	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.6031253
+VariantInfection_11	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	2.3992
+VariantInfection_11	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	1.9922767
+VariantInfection_11	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.7611881
+VariantInfection_11	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	3.5907793
+VariantInfection_126	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	1.3810863
+VariantInfection_126	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.2563032
+VariantInfection_126	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	4.052036
+VariantInfection_126	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	1.3116137
+VariantInfection_126	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.92979974
+VariantInfection_126	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	2.4411492
+VariantInfection_126	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	1.9678881
+VariantInfection_126	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	1.1199385
+VariantInfection_126	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	3.2330618
+VariantInfection_128	Variant Infection - Alpha	day 28 / week 4	Wuhan	Alpha	0.40232626
+VariantInfection_128	Variant Infection - Alpha	day 28 / week 4	Wuhan	B.1.526.2	1.1094593
+VariantInfection_128	Variant Infection - Alpha	day 28 / week 4	Wuhan	Beta	2.1681707
+VariantInfection_128	Variant Infection - Alpha	day 28 / week 4	Wuhan	Delta	2.0283341
+VariantInfection_128	Variant Infection - Alpha	day 28 / week 4	Wuhan	Epsilon	1.5368264
+VariantInfection_128	Variant Infection - Alpha	day 28 / week 4	Wuhan	Gamma	1.129684
+VariantInfection_128	Variant Infection - Alpha	day 28 / week 4	Wuhan	Iota	4.137419
+VariantInfection_128	Variant Infection - Alpha	day 28 / week 4	Wuhan	Kappa	2.4014785
+VariantInfection_128	Variant Infection - Alpha	day 28 / week 4	Wuhan	P.3	2.2756033
+VariantInfection_134	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	1.2955313
+VariantInfection_134	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.1132057
+VariantInfection_134	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	8.626132
+VariantInfection_134	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.58058876
+VariantInfection_134	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.72977805
+VariantInfection_134	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	4.9504757
+VariantInfection_134	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	3.1820495
+VariantInfection_134	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	1.5480616
+VariantInfection_134	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	6.8673415
+VariantInfection_137	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	1.4004622
+VariantInfection_137	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.1239499
+VariantInfection_137	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	10.701457
+VariantInfection_137	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.5273248
+VariantInfection_137	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.6512917
+VariantInfection_137	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	6.0468407
+VariantInfection_137	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	3.9860523
+VariantInfection_137	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	1.5984513
+VariantInfection_137	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	8.547545
+VariantInfection_142	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	2.0296142
+VariantInfection_142	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	0.9971046
+VariantInfection_142	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	6.5757623
+VariantInfection_142	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.19395009
+VariantInfection_142	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.3594067
+VariantInfection_142	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	2.8207633
+VariantInfection_142	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	2.0317419
+VariantInfection_142	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.54012305
+VariantInfection_142	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	5.9611654
+VariantInfection_143	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	1.8797907
+VariantInfection_143	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.1196891
+VariantInfection_143	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	5.486451
+VariantInfection_143	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.2327562
+VariantInfection_143	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.46923596
+VariantInfection_143	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	3.3897827
+VariantInfection_143	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	2.332205
+VariantInfection_143	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.5724992
+VariantInfection_143	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	5.0860686
+VariantInfection_145	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	1.9251343
+VariantInfection_145	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	0.9816578
+VariantInfection_145	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	5.9804554
+VariantInfection_145	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.4037194
+VariantInfection_145	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.44855013
+VariantInfection_145	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	3.7707908
+VariantInfection_145	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	2.565448
+VariantInfection_145	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.798266
+VariantInfection_145	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	4.7595773
+VariantInfection_33	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	3.7030826
+VariantInfection_33	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.1971177
+VariantInfection_33	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	10.908671
+VariantInfection_33	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.20308487
+VariantInfection_33	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.3567681
+VariantInfection_33	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	6.176074
+VariantInfection_33	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	1.6641272
+VariantInfection_33	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.46969184
+VariantInfection_33	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	8.448293
+VariantInfection_34	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	1.4036683
+VariantInfection_34	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.0939411
+VariantInfection_34	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	3.517306
+VariantInfection_34	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.3294694
+VariantInfection_34	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.5081791
+VariantInfection_34	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	1.6757816
+VariantInfection_34	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	1.7724907
+VariantInfection_34	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.5700578
+VariantInfection_34	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	4.3185983
+VariantInfection_38	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	1.7786213
+VariantInfection_38	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.0541025
+VariantInfection_38	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	4.2841787
+VariantInfection_38	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.18008393
+VariantInfection_38	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.33466658
+VariantInfection_38	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	2.6483724
+VariantInfection_38	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	1.6688366
+VariantInfection_38	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.41325384
+VariantInfection_38	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	4.228921
+VariantInfection_43	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	1.4728843
+VariantInfection_43	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.1279671
+VariantInfection_43	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	2.7814667
+VariantInfection_43	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.2724677
+VariantInfection_43	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.39340442
+VariantInfection_43	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	1.7395108
+VariantInfection_43	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	1.8140893
+VariantInfection_43	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.55211437
+VariantInfection_43	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	3.4053714
+VariantInfection_45	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	2.7397227
+VariantInfection_45	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.0036333
+VariantInfection_45	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	3.9914029
+VariantInfection_45	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.10979105
+VariantInfection_45	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.5283764
+VariantInfection_45	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	1.9335591
+VariantInfection_45	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	1.9340125
+VariantInfection_45	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.4486641
+VariantInfection_45	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	9.58711
+VariantInfection_55	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	1.6224514
+VariantInfection_55	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.079357
+VariantInfection_55	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	4.979227
+VariantInfection_55	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.5846433
+VariantInfection_55	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.6629618
+VariantInfection_55	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	2.495651
+VariantInfection_55	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	1.3283012
+VariantInfection_55	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.5953544
+VariantInfection_55	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	3.3564162
+VariantInfection_61	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	1.4922653
+VariantInfection_61	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.1063896
+VariantInfection_61	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	10.627456
+VariantInfection_61	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.2174755
+VariantInfection_61	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.46667174
+VariantInfection_61	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	6.371639
+VariantInfection_61	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	3.5847445
+VariantInfection_61	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.8759395
+VariantInfection_61	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	9.59733
+VariantInfection_66	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	2.2120342
+VariantInfection_66	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.1909517
+VariantInfection_66	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	10.27631
+VariantInfection_66	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.34525728
+VariantInfection_66	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.41820574
+VariantInfection_66	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	5.4309926
+VariantInfection_66	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	1.6894243
+VariantInfection_66	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.71765447
+VariantInfection_66	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	7.3972383
+VariantInfection_68	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	1.5222367
+VariantInfection_68	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.096659
+VariantInfection_68	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	3.2657895
+VariantInfection_68	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.3308611
+VariantInfection_68	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.45242286
+VariantInfection_68	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	2.3999286
+VariantInfection_68	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	2.1634128
+VariantInfection_68	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.72919196
+VariantInfection_68	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	3.0296488
+VariantInfection_7	Variant Infection - Alpha	day 28 / week 4	Wuhan	Alpha	0.41559413
+VariantInfection_7	Variant Infection - Alpha	day 28 / week 4	Wuhan	B.1.526.2	1.1349438
+VariantInfection_7	Variant Infection - Alpha	day 28 / week 4	Wuhan	Beta	6.1320343
+VariantInfection_7	Variant Infection - Alpha	day 28 / week 4	Wuhan	Delta	2.6041343
+VariantInfection_7	Variant Infection - Alpha	day 28 / week 4	Wuhan	Epsilon	1.6014402
+VariantInfection_7	Variant Infection - Alpha	day 28 / week 4	Wuhan	Gamma	2.9381642
+VariantInfection_7	Variant Infection - Alpha	day 28 / week 4	Wuhan	Iota	4.706114
+VariantInfection_7	Variant Infection - Alpha	day 28 / week 4	Wuhan	Kappa	2.3805656
+VariantInfection_7	Variant Infection - Alpha	day 28 / week 4	Wuhan	P.3	3.0521035
+VariantInfection_71	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	1.8343959
+VariantInfection_71	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.0786654
+VariantInfection_71	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	7.3679276
+VariantInfection_71	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.30202967
+VariantInfection_71	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.38046747
+VariantInfection_71	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	5.3660197
+VariantInfection_71	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	1.6195551
+VariantInfection_71	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.47311398
+VariantInfection_71	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	2.9953954
+VariantInfection_75	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	2.0570061
+VariantInfection_75	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.0735588
+VariantInfection_75	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	5.5086703
+VariantInfection_75	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.29921818
+VariantInfection_75	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.49658263
+VariantInfection_75	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	3.3038058
+VariantInfection_75	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	2.6152651
+VariantInfection_75	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.6321734
+VariantInfection_75	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	6.4085007
+VariantInfection_78	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	1.4376565
+VariantInfection_78	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.0104308
+VariantInfection_78	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	8.231045
+VariantInfection_78	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	0.24123591
+VariantInfection_78	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.47894257
+VariantInfection_78	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	2.8169656
+VariantInfection_78	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	2.9696627
+VariantInfection_78	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	0.8087842
+VariantInfection_78	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	4.8490024
+VariantInfection_8	Variant Infection - Alpha	day 28 / week 4	Wuhan	Alpha	0.56653565
+VariantInfection_8	Variant Infection - Alpha	day 28 / week 4	Wuhan	B.1.526.2	0.95161104
+VariantInfection_8	Variant Infection - Alpha	day 28 / week 4	Wuhan	Beta	2.8757985
+VariantInfection_8	Variant Infection - Alpha	day 28 / week 4	Wuhan	Delta	1.7453958
+VariantInfection_8	Variant Infection - Alpha	day 28 / week 4	Wuhan	Epsilon	1.1831528
+VariantInfection_8	Variant Infection - Alpha	day 28 / week 4	Wuhan	Gamma	1.5305282
+VariantInfection_8	Variant Infection - Alpha	day 28 / week 4	Wuhan	Iota	3.0492742
+VariantInfection_8	Variant Infection - Alpha	day 28 / week 4	Wuhan	Kappa	1.8640306
+VariantInfection_8	Variant Infection - Alpha	day 28 / week 4	Wuhan	P.3	3.3109143
+VariantInfection_87	Variant Infection - Delta	day 28 / week 4	Wuhan	Alpha	1.2744685
+VariantInfection_87	Variant Infection - Delta	day 28 / week 4	Wuhan	B.1.526.2	1.1486247
+VariantInfection_87	Variant Infection - Delta	day 28 / week 4	Wuhan	Beta	3.0211103
+VariantInfection_87	Variant Infection - Delta	day 28 / week 4	Wuhan	Delta	1.2563984
+VariantInfection_87	Variant Infection - Delta	day 28 / week 4	Wuhan	Epsilon	0.9225351
+VariantInfection_87	Variant Infection - Delta	day 28 / week 4	Wuhan	Gamma	1.8430264
+VariantInfection_87	Variant Infection - Delta	day 28 / week 4	Wuhan	Iota	1.6972967
+VariantInfection_87	Variant Infection - Delta	day 28 / week 4	Wuhan	Kappa	1.0010182
+VariantInfection_87	Variant Infection - Delta	day 28 / week 4	Wuhan	P.3	2.4301164
+cohort2-0026	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Alpha	1.7064215
+cohort2-0026	Wuhan Infection - Mild	day 28 / week 4	Wuhan	B.1.526.2	1.1714911
+cohort2-0026	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Beta	7.6961284
+cohort2-0026	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Delta	1.7660818
+cohort2-0026	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Epsilon	1.3424463
+cohort2-0026	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Gamma	3.8459945
+cohort2-0026	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Iota	3.4104557
+cohort2-0026	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Kappa	2.0214252
+cohort2-0026	Wuhan Infection - Mild	day 28 / week 4	Wuhan	P.3	6.688707
+cohort2-0031	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Alpha	1.3298346
+cohort2-0031	Wuhan Infection - Mild	day 28 / week 4	Wuhan	B.1.526.2	1.0716628
+cohort2-0031	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Beta	3.8070197
+cohort2-0031	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Delta	1.3441637
+cohort2-0031	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Epsilon	1.0059152
+cohort2-0031	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Gamma	2.3406203
+cohort2-0031	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Iota	2.1779723
+cohort2-0031	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Kappa	1.1678948
+cohort2-0031	Wuhan Infection - Mild	day 28 / week 4	Wuhan	P.3	3.9918032
+cohort2-0034	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Alpha	1.7981335
+cohort2-0034	Wuhan Infection - Mild	day 28 / week 4	Wuhan	B.1.526.2	1.1352226
+cohort2-0034	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Beta	4.869052
+cohort2-0034	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Delta	1.8783736
+cohort2-0034	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Epsilon	1.2977122
+cohort2-0034	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Gamma	2.5959132
+cohort2-0034	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Iota	2.728234
+cohort2-0034	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Kappa	1.4954699
+cohort2-0034	Wuhan Infection - Mild	day 28 / week 4	Wuhan	P.3	5.19693
+cohort2-0036	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Alpha	1.2803807
+cohort2-0036	Wuhan Infection - Mild	day 28 / week 4	Wuhan	B.1.526.2	1.1542268
+cohort2-0036	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Beta	3.4664285
+cohort2-0036	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Delta	1.6842353
+cohort2-0036	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Epsilon	1.1942819
+cohort2-0036	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Gamma	2.7120302
+cohort2-0036	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Iota	2.1079457
+cohort2-0036	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Kappa	1.3626622
+cohort2-0036	Wuhan Infection - Mild	day 28 / week 4	Wuhan	P.3	3.3950462
+cohort2-0041	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	Alpha	1.6386292
+cohort2-0041	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	B.1.526.2	1.1575239
+cohort2-0041	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	Beta	5.1697493
+cohort2-0041	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	Delta	1.6138707
+cohort2-0041	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	Epsilon	1.2078947
+cohort2-0041	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	Gamma	3.0747163
+cohort2-0041	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	Iota	2.1213465
+cohort2-0041	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	Kappa	1.2622952
+cohort2-0041	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	P.3	4.6460977
+cohort2-0052	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Alpha	1.0876341
+cohort2-0052	Wuhan Infection - Mild	day 28 / week 4	Wuhan	B.1.526.2	1.0949004
+cohort2-0052	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Beta	6.753678
+cohort2-0052	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Delta	2.5958655
+cohort2-0052	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Epsilon	1.9342213
+cohort2-0052	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Gamma	3.8729775
+cohort2-0052	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Iota	3.4308805
+cohort2-0052	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Kappa	2.213589
+cohort2-0052	Wuhan Infection - Mild	day 28 / week 4	Wuhan	P.3	6.0046687
+cohort2-0056	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Alpha	1.4783552
+cohort2-0056	Wuhan Infection - Mild	day 28 / week 4	Wuhan	B.1.526.2	1.1617944
+cohort2-0056	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Beta	4.1083593
+cohort2-0056	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Delta	1.8020941
+cohort2-0056	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Epsilon	1.2817037
+cohort2-0056	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Gamma	2.5885317
+cohort2-0056	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Iota	2.3307843
+cohort2-0056	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Kappa	1.4787478
+cohort2-0056	Wuhan Infection - Mild	day 28 / week 4	Wuhan	P.3	3.943858
+cohort2-0059	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Alpha	1.4825372
+cohort2-0059	Wuhan Infection - Mild	day 28 / week 4	Wuhan	B.1.526.2	1.1493199
+cohort2-0059	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Beta	3.4118922
+cohort2-0059	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Delta	1.3381325
+cohort2-0059	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Epsilon	1.069941
+cohort2-0059	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Gamma	2.1027775
+cohort2-0059	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Iota	2.11071
+cohort2-0059	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Kappa	1.1386031
+cohort2-0059	Wuhan Infection - Mild	day 28 / week 4	Wuhan	P.3	3.3518894
+cohort2-0072	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Alpha	1.4427606
+cohort2-0072	Wuhan Infection - Mild	day 28 / week 4	Wuhan	B.1.526.2	1.1765938
+cohort2-0072	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Beta	6.3046894
+cohort2-0072	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Delta	2.5302873
+cohort2-0072	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Epsilon	2.0850914
+cohort2-0072	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Gamma	3.2517903
+cohort2-0072	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Iota	2.942085
+cohort2-0072	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Kappa	1.9832911
+cohort2-0072	Wuhan Infection - Mild	day 28 / week 4	Wuhan	P.3	6.2265706
+cohort2-0077	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Alpha	1.6397648
+cohort2-0077	Wuhan Infection - Severe	day 28 / week 4	Wuhan	B.1.526.2	1.2433461
+cohort2-0077	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Beta	5.215136
+cohort2-0077	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Delta	1.57736
+cohort2-0077	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Epsilon	1.1770904
+cohort2-0077	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Gamma	2.6225374
+cohort2-0077	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Iota	2.4640698
+cohort2-0077	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Kappa	1.4410828
+cohort2-0077	Wuhan Infection - Severe	day 28 / week 4	Wuhan	P.3	4.7119527
+cohort2-0087	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	Alpha	1.5514057
+cohort2-0087	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	B.1.526.2	1.2085305
+cohort2-0087	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	Beta	3.9865234
+cohort2-0087	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	Delta	1.4268035
+cohort2-0087	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	Epsilon	1.1220679
+cohort2-0087	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	Gamma	2.6552985
+cohort2-0087	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	Iota	2.4179688
+cohort2-0087	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	Kappa	1.4269431
+cohort2-0087	Wuhan Infection - Moderate	day 28 / week 4	Wuhan	P.3	4.571638
+cohort2-0094	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Alpha	1.5751804
+cohort2-0094	Wuhan Infection - Mild	day 28 / week 4	Wuhan	B.1.526.2	1.1784531
+cohort2-0094	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Beta	11.180412
+cohort2-0094	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Delta	3.620208
+cohort2-0094	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Epsilon	1.3861135
+cohort2-0094	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Gamma	5.1175337
+cohort2-0094	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Iota	5.5030727
+cohort2-0094	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Kappa	0.8583207
+cohort2-0094	Wuhan Infection - Mild	day 28 / week 4	Wuhan	P.3	9.874662
+cohort2-0118	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Alpha	1.6307956
+cohort2-0118	Wuhan Infection - Severe	day 28 / week 4	Wuhan	B.1.526.2	1.1514754
+cohort2-0118	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Beta	5.513132
+cohort2-0118	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Delta	1.4429048
+cohort2-0118	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Epsilon	1.1535763
+cohort2-0118	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Gamma	3.0579405
+cohort2-0118	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Iota	2.2291577
+cohort2-0118	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Kappa	1.3763287
+cohort2-0118	Wuhan Infection - Severe	day 28 / week 4	Wuhan	P.3	4.426113
+cohort2-0165	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Alpha	1.7709496
+cohort2-0165	Wuhan Infection - Mild	day 28 / week 4	Wuhan	B.1.526.2	1.1121094
+cohort2-0165	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Beta	4.1907983
+cohort2-0165	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Delta	1.7339964
+cohort2-0165	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Epsilon	1.3393952
+cohort2-0165	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Gamma	3.190569
+cohort2-0165	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Iota	2.4241984
+cohort2-0165	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Kappa	1.7760864
+cohort2-0165	Wuhan Infection - Mild	day 28 / week 4	Wuhan	P.3	4.215754
+cohort2-0199	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Alpha	1.4688464
+cohort2-0199	Wuhan Infection - Mild	day 28 / week 4	Wuhan	B.1.526.2	1.4611245
+cohort2-0199	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Beta	3.4819744
+cohort2-0199	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Delta	1.205103
+cohort2-0199	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Epsilon	1.0378374
+cohort2-0199	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Gamma	1.9009345
+cohort2-0199	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Iota	1.3329002
+cohort2-0199	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Kappa	0.9439107
+cohort2-0199	Wuhan Infection - Mild	day 28 / week 4	Wuhan	P.3	2.0943851
+cohort2-0212	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Alpha	1.5025634
+cohort2-0212	Wuhan Infection - Mild	day 28 / week 4	Wuhan	B.1.526.2	1.1385735
+cohort2-0212	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Beta	8.064258
+cohort2-0212	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Delta	2.4326434
+cohort2-0212	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Epsilon	1.5651327
+cohort2-0212	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Gamma	4.050503
+cohort2-0212	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Iota	4.2965474
+cohort2-0212	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Kappa	2.1039624
+cohort2-0212	Wuhan Infection - Mild	day 28 / week 4	Wuhan	P.3	8.151688
+cohort2-0215	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Alpha	1.7541884
+cohort2-0215	Wuhan Infection - Severe	day 28 / week 4	Wuhan	B.1.526.2	1.1382637
+cohort2-0215	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Beta	5.2953944
+cohort2-0215	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Delta	1.7189734
+cohort2-0215	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Epsilon	1.273267
+cohort2-0215	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Gamma	2.5997725
+cohort2-0215	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Iota	2.6175685
+cohort2-0215	Wuhan Infection - Severe	day 28 / week 4	Wuhan	Kappa	1.5689634
+cohort2-0215	Wuhan Infection - Severe	day 28 / week 4	Wuhan	P.3	5.523726
+cohort2-0218	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Alpha	2.2757342
+cohort2-0218	Wuhan Infection - Mild	day 28 / week 4	Wuhan	B.1.526.2	1.1067089
+cohort2-0218	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Beta	14.28239
+cohort2-0218	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Delta	5.3216233
+cohort2-0218	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Epsilon	4.249776
+cohort2-0218	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Gamma	8.73744
+cohort2-0218	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Iota	9.049357
+cohort2-0218	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Kappa	4.87463
+cohort2-0218	Wuhan Infection - Mild	day 28 / week 4	Wuhan	P.3	13.8479595
+cohort2-0219	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Alpha	1.7796166
+cohort2-0219	Wuhan Infection - Mild	day 28 / week 4	Wuhan	B.1.526.2	1.213674
+cohort2-0219	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Beta	4.808152
+cohort2-0219	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Delta	1.2627875
+cohort2-0219	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Epsilon	0.95493853
+cohort2-0219	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Gamma	2.9764273
+cohort2-0219	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Iota	2.6473415
+cohort2-0219	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Kappa	1.222828
+cohort2-0219	Wuhan Infection - Mild	day 28 / week 4	Wuhan	P.3	4.945816
+cohort2-0222	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Alpha	1.9649315
+cohort2-0222	Wuhan Infection - Mild	day 28 / week 4	Wuhan	B.1.526.2	1.0392894
+cohort2-0222	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Beta	10.486355
+cohort2-0222	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Delta	3.5088544
+cohort2-0222	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Epsilon	2.4259048
+cohort2-0222	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Gamma	5.5712214
+cohort2-0222	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Iota	4.909334
+cohort2-0222	Wuhan Infection - Mild	day 28 / week 4	Wuhan	Kappa	2.8543284
+cohort2-0222	Wuhan Infection - Mild	day 28 / week 4	Wuhan	P.3	9.639914
+pfizer00	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4820696
+pfizer00	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1387217
+pfizer00	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.6995656
+pfizer00	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.4781055
+pfizer00	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.1036336
+pfizer00	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.1252058
+pfizer00	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.6105834
+pfizer00	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.1964718
+pfizer00	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.9180846
+pfizer01	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.6775272
+pfizer01	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.0722185
+pfizer01	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.2198231
+pfizer01	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.3022075
+pfizer01	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.0715022
+pfizer01	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.6080532
+pfizer01	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.5183839
+pfizer01	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.1070405
+pfizer01	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	3.0892854
+pfizer02	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4668745
+pfizer02	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1519248
+pfizer02	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.7914758
+pfizer02	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.5978671
+pfizer02	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.2938825
+pfizer02	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.0847893
+pfizer02	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.5977708
+pfizer02	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.3327905
+pfizer02	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.5903785
+pfizer04	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.3353207
+pfizer04	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.0962386
+pfizer04	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.3581877
+pfizer04	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.1599431
+pfizer04	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	0.929928
+pfizer04	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.7723885
+pfizer04	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.3678722
+pfizer04	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.0060754
+pfizer04	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.5929387
+pfizer05	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.6154313
+pfizer05	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1015662
+pfizer05	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.137603
+pfizer05	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.1579567
+pfizer05	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	0.91856384
+pfizer05	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.655041
+pfizer05	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.233214
+pfizer05	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	0.8786753
+pfizer05	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.5295937
+pfizer06	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.3681504
+pfizer06	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.0987259
+pfizer06	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.0187702
+pfizer06	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.2781619
+pfizer06	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	0.99483716
+pfizer06	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.6755414
+pfizer06	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.3662075
+pfizer06	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.0926493
+pfizer06	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.9604323
+pfizer07	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4128817
+pfizer07	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.0169502
+pfizer07	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.7444701
+pfizer07	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.2694324
+pfizer07	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	0.99517864
+pfizer07	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.0302818
+pfizer07	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.4888774
+pfizer07	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.1332986
+pfizer07	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.8609717
+pfizer08	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.6502465
+pfizer08	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1624501
+pfizer08	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.7819555
+pfizer08	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.5554641
+pfizer08	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.1822319
+pfizer08	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.3564122
+pfizer08	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.7783397
+pfizer08	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.2767736
+pfizer08	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	3.419029
+pfizer09	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4566628
+pfizer09	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1161331
+pfizer09	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.7228897
+pfizer09	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.2413456
+pfizer09	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	0.9458268
+pfizer09	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.8705786
+pfizer09	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.5412995
+pfizer09	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.0422231
+pfizer09	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.653508
+pfizer12	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.7325459
+pfizer12	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1021235
+pfizer12	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.831292
+pfizer12	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.3773618
+pfizer12	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.0592431
+pfizer12	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.070101
+pfizer12	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.5749254
+pfizer12	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.095399
+pfizer12	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.92165
+pfizer13	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4146066
+pfizer13	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.0604073
+pfizer13	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.5243828
+pfizer13	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.4145743
+pfizer13	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.0571228
+pfizer13	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.1682692
+pfizer13	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	2.0455792
+pfizer13	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.1892977
+pfizer13	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	3.840552
+pfizer14	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.3062826
+pfizer14	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.004452
+pfizer14	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	1.6025624
+pfizer14	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.1039045
+pfizer14	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	0.8395526
+pfizer14	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.0230434
+pfizer14	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.1076558
+pfizer14	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	0.8460622
+pfizer14	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	1.7780466
+pfizer15	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Alpha	1.2602185
+pfizer15	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	B.1.526.2	1.127389
+pfizer15	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Beta	3.3137112
+pfizer15	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Delta	1.4603322
+pfizer15	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Epsilon	1.1143492
+pfizer15	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Gamma	2.6675224
+pfizer15	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Iota	2.3988063
+pfizer15	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Kappa	1.4280236
+pfizer15	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	P.3	3.552704
+pfizer16	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.3842952
+pfizer16	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.2054434
+pfizer16	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.1908777
+pfizer16	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.3724462
+pfizer16	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.1083839
+pfizer16	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.1354623
+pfizer16	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.7211031
+pfizer16	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.1700217
+pfizer16	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.8511515
+pfizer18	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.3370267
+pfizer18	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1642182
+pfizer18	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.5954697
+pfizer18	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.3525367
+pfizer18	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.0406538
+pfizer18	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.9593168
+pfizer18	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.477905
+pfizer18	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.0783287
+pfizer18	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.6643662
+pfizer19	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4473566
+pfizer19	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1924049
+pfizer19	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.3303845
+pfizer19	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.4460831
+pfizer19	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	0.994443
+pfizer19	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.4330707
+pfizer19	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	2.0126615
+pfizer19	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.1929351
+pfizer19	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	3.974369
+pfizer20	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.3652179
+pfizer20	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1763303
+pfizer20	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.62891
+pfizer20	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.3881842
+pfizer20	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.0819696
+pfizer20	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.8429705
+pfizer20	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.3699368
+pfizer20	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.0686901
+pfizer20	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.6408465
+pfizer22	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Alpha	1.5047995
+pfizer22	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	B.1.526.2	1.1530713
+pfizer22	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Beta	2.9514802
+pfizer22	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Delta	1.4084325
+pfizer22	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Epsilon	1.104902
+pfizer22	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Gamma	2.0443428
+pfizer22	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Iota	1.7389371
+pfizer22	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Kappa	1.1437335
+pfizer22	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	P.3	3.4168932
+pfizer23	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.3468695
+pfizer23	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1778378
+pfizer23	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.9218268
+pfizer23	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.7694138
+pfizer23	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.3141571
+pfizer23	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.165528
+pfizer23	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.8284948
+pfizer23	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.268344
+pfizer23	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	3.1422088
+pfizer24	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.0604038
+pfizer24	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.0849935
+pfizer24	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	5.567686
+pfizer24	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	3.722491
+pfizer24	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	3.1803913
+pfizer24	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	4.1365023
+pfizer24	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	3.9314141
+pfizer24	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	2.8668742
+pfizer24	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	5.3231096
+pfizer25	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Alpha	1.3696672
+pfizer25	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	B.1.526.2	1.2701005
+pfizer25	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Beta	2.8646502
+pfizer25	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Delta	1.4143292
+pfizer25	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Epsilon	1.050715
+pfizer25	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Gamma	2.137072
+pfizer25	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Iota	1.5953805
+pfizer25	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Kappa	1.143752
+pfizer25	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	P.3	2.8039632
+pfizer26	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4109883
+pfizer26	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1881641
+pfizer26	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.4502149
+pfizer26	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.2895678
+pfizer26	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.0633086
+pfizer26	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.6966944
+pfizer26	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.4309658
+pfizer26	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.0107334
+pfizer26	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.8618674
+pfizer27	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.367008
+pfizer27	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1884565
+pfizer27	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.5118175
+pfizer27	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.4695481
+pfizer27	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.1477202
+pfizer27	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.9466027
+pfizer27	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.634931
+pfizer27	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.1917076
+pfizer27	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	3.039991
+pfizer28	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4555933
+pfizer28	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1983975
+pfizer28	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.2843864
+pfizer28	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.7271708
+pfizer28	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.327609
+pfizer28	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.146017
+pfizer28	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.8596547
+pfizer28	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.285572
+pfizer28	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	4.2308874
+pfizer29	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.6620611
+pfizer29	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.2120514
+pfizer29	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.1797004
+pfizer29	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.3559374
+pfizer29	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.0204376
+pfizer29	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.040771
+pfizer29	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.7642854
+pfizer29	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.1150875
+pfizer29	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	3.8528483
+pfizer31	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.3814169
+pfizer31	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.146374
+pfizer31	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.0452673
+pfizer31	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.5288498
+pfizer31	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.1909286
+pfizer31	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.2914095
+pfizer31	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.9288111
+pfizer31	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.2998927
+pfizer31	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	4.1686864
+pfizer32	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Alpha	1.4109904
+pfizer32	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	B.1.526.2	1.2670825
+pfizer32	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Beta	4.7337117
+pfizer32	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Delta	1.5709257
+pfizer32	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Epsilon	1.2123028
+pfizer32	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Gamma	3.4267387
+pfizer32	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Iota	2.3266792
+pfizer32	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	Kappa	1.4193931
+pfizer32	Pfizer-Pfizer (Stanford), CoV2+	day 28 / week 4	Wuhan	P.3	4.22908
+pfizer33	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.5494511
+pfizer33	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.3165416
+pfizer33	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.6825361
+pfizer33	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.5042306
+pfizer33	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.1083395
+pfizer33	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.237463
+pfizer33	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	2.361913
+pfizer33	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.104161
+pfizer33	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	3.653459
+pfizer34	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4315124
+pfizer34	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.199454
+pfizer34	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.1054633
+pfizer34	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.7493325
+pfizer34	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.2611568
+pfizer34	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.1701674
+pfizer34	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.7196478
+pfizer34	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.3859378
+pfizer34	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	3.1763227
+pfizer36	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.6835955
+pfizer36	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.4158002
+pfizer36	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.8204083
+pfizer36	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	2.4484646
+pfizer36	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.695486
+pfizer36	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.5909505
+pfizer36	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	2.2741804
+pfizer36	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.7337891
+pfizer36	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	4.2397556
+pfizer37	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4509733
+pfizer37	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.2307279
+pfizer37	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	4.1010394
+pfizer37	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.429884
+pfizer37	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.1391343
+pfizer37	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.8965719
+pfizer37	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.713407
+pfizer37	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.1467161
+pfizer37	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	3.4215555
+pfizer38	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.7127305
+pfizer38	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.2905128
+pfizer38	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.0025806
+pfizer38	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.4689871
+pfizer38	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.1475875
+pfizer38	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.8679492
+pfizer38	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.6255412
+pfizer38	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.0212865
+pfizer38	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.9490602
+pfizer40	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4907162
+pfizer40	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1141177
+pfizer40	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.3382535
+pfizer40	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.191277
+pfizer40	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	0.92055625
+pfizer40	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.0982077
+pfizer40	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.5986505
+pfizer40	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.0240418
+pfizer40	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	3.3024986
+pfizer42	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.6803087
+pfizer42	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.3141115
+pfizer42	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.7830522
+pfizer42	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.703813
+pfizer42	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.33383
+pfizer42	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.8196266
+pfizer42	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.9291257
+pfizer42	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.2601137
+pfizer42	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	4.4422884
+pfizer43	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.5564057
+pfizer43	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1702032
+pfizer43	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	5.075509
+pfizer43	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.1361294
+pfizer43	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	0.854883
+pfizer43	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.2612293
+pfizer43	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	2.3178623
+pfizer43	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.2183075
+pfizer43	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	5.076142
+pfizer44	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4044036
+pfizer44	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.2179871
+pfizer44	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.083058
+pfizer44	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.4784043
+pfizer44	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.1225672
+pfizer44	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.8733499
+pfizer44	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.530813
+pfizer44	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.0853305
+pfizer44	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.4374394
+pfizer45	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.6121244
+pfizer45	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.14075
+pfizer45	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	4.2666984
+pfizer45	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	0.99762297
+pfizer45	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	0.81790113
+pfizer45	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.3435838
+pfizer45	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.3661485
+pfizer45	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	0.783953
+pfizer45	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.5870695
+pfizer46	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4244484
+pfizer46	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1848891
+pfizer46	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.9108746
+pfizer46	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.2825246
+pfizer46	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	0.99371386
+pfizer46	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.8713484
+pfizer46	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.2732924
+pfizer46	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	0.9511506
+pfizer46	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.912138
+pfizer47	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.2617412
+pfizer47	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.112527
+pfizer47	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.9264743
+pfizer47	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.5879766
+pfizer47	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.2190536
+pfizer47	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.9226141
+pfizer47	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.9114528
+pfizer47	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.2768345
+pfizer47	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.8560288
+pfizer48	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4286073
+pfizer48	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1723263
+pfizer48	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.0169098
+pfizer48	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.804002
+pfizer48	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	1.3189718
+pfizer48	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	2.49246
+pfizer48	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.4886094
+pfizer48	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	1.33497
+pfizer48	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	3.0190096
+pfizer49	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.2617835
+pfizer49	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.0371872
+pfizer49	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.6185362
+pfizer49	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.2398368
+pfizer49	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	0.9349717
+pfizer49	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.6643207
+pfizer49	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.5934588
+pfizer49	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	0.9888568
+pfizer49	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.4227078
+pfizer55	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4230901
+pfizer55	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1795589
+pfizer55	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	3.3775058
+pfizer55	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.1260295
+pfizer55	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	0.8627868
+pfizer55	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.8723851
+pfizer55	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.3069555
+pfizer55	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	0.91780114
+pfizer55	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.7435253
+pfizer56	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.4718765
+pfizer56	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.1868805
+pfizer56	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	2.466717
+pfizer56	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	1.2977126
+pfizer56	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	0.9859839
+pfizer56	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.5888939
+pfizer56	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.4402075
+pfizer56	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	0.986743
+pfizer56	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	3.139661
+pfizer58	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Alpha	1.3012819
+pfizer58	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	B.1.526.2	1.086648
+pfizer58	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Beta	1.7879913
+pfizer58	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Delta	0.9429844
+pfizer58	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Epsilon	0.6801621
+pfizer58	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Gamma	1.4425417
+pfizer58	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Iota	1.3265526
+pfizer58	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	Kappa	0.82821727
+pfizer58	Pfizer-Pfizer (Stanford)	day 28 / week 4	Wuhan	P.3	2.096835

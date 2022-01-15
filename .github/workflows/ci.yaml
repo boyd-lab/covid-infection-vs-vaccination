@@ -1,0 +1,55 @@
+# Checkout or python install don't carry between jobs. In fresh job, will default to empty directory and python 3.8
+# Env variables are all strings
+
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    strategy:
+      # don't abort all other jobs
+      fail-fast: false
+      matrix:
+        python-version: [3.7.10]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Get Python version
+        run: python --version
+      - name: Cache pip
+        uses: actions/cache@v2
+        with:
+          # This path is specific to Ubuntu
+          path: ~/.cache/pip
+          # Look to see if there is a cache hit for the corresponding requirements file
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+            ${{ runner.os }}-
+      - name: Cache precommit
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pre-commit
+          # Look to see if there is a cache hit for the corresponding file
+          key: ${{ runner.os }}-precommit-${{matrix.python-version}}-${{ hashFiles('.pre-commit-config.yaml') }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip wheel
+          pip install -r requirements.txt
+          pip install -U codecov
+      - name: Lint
+        run: |
+            pre-commit install
+            pre-commit run --all-files --show-diff-on-failure
+      - name: Run tests
+        # use temporary directory cleaned up after every job
+        run: pytest --basetemp={runner.temp} --cov=./ --cov-report xml
+      - name: Upload coverage on success
+        uses: codecov/codecov-action@v1
+        if: ${{ success() }}

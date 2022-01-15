@@ -1,0 +1,10 @@
+combined_name
+ratio:Wuhan_RBD_Variant_IgG_week 7 and later / 3 months:Epsilon_RBD_Variant_IgG_week 7 and later / 3 months
+ratio:Wuhan_RBD_Variant_IgG_week 7 and later / 3 months:Beta_RBD_Variant_IgG_week 7 and later / 3 months
+ratio:Wuhan_RBD_Variant_IgG_week 7 and later / 3 months:Iota_RBD_Variant_IgG_week 7 and later / 3 months
+ratio:Wuhan_RBD_Variant_IgG_week 7 and later / 3 months:Gamma_RBD_Variant_IgG_week 7 and later / 3 months
+ratio:Wuhan_RBD_Variant_IgG_week 7 and later / 3 months:B.1.526.2_RBD_Variant_IgG_week 7 and later / 3 months
+ratio:Wuhan_RBD_Variant_IgG_week 7 and later / 3 months:Alpha_RBD_Variant_IgG_week 7 and later / 3 months
+ratio:Wuhan_RBD_Variant_IgG_week 7 and later / 3 months:P.3_RBD_Variant_IgG_week 7 and later / 3 months
+ratio:Wuhan_RBD_Variant_IgG_week 7 and later / 3 months:Kappa_RBD_Variant_IgG_week 7 and later / 3 months
+ratio:Wuhan_RBD_Variant_IgG_week 7 and later / 3 months:Delta_RBD_Variant_IgG_week 7 and later / 3 months

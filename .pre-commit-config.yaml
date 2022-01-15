@@ -1,0 +1,34 @@
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+repos:
+# jupytext mirrors notebooks to source-only python files (two-way sync)
+-   repo: https://github.com/mwouts/jupytext
+    rev: v1.11.5
+    hooks:
+    - id: jupytext
+      args: [--sync, --pipe, black]
+      # limit search directories and file types to make this run faster
+      # must be in one of these directories
+      files: ^notebooks/|^notebooks_src/
+      # and must be one of these types
+      types_or: [jupyter, python]
+      additional_dependencies:
+        - black==21.8b0 # Matches hook
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v2.4.0
+    hooks:
+    -   id: trailing-whitespace
+        exclude: .ipynb
+    -   id: end-of-file-fixer
+        exclude: .ipynb
+    -   id: check-yaml
+    -   id: check-added-large-files
+        args: ['--maxkb=3000']
+        exclude: .ipynb
+    -   id: requirements-txt-fixer
+    -   id: check-merge-conflict
+-   repo: https://github.com/psf/black
+    rev: 21.8b0
+    hooks:
+      - id: black-jupyter
+        language_version: python # Should be a command that runs python3.6+, like python3

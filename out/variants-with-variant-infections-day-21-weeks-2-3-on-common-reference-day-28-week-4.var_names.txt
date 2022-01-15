@@ -1,0 +1,10 @@
+combined_name
+ratio:Wuhan_RBD_Variant_IgG_day 21 / weeks 2&3:Epsilon_RBD_Variant_IgG_day 21 / weeks 2&3
+ratio:Wuhan_RBD_Variant_IgG_day 21 / weeks 2&3:Beta_RBD_Variant_IgG_day 21 / weeks 2&3
+ratio:Wuhan_RBD_Variant_IgG_day 21 / weeks 2&3:Iota_RBD_Variant_IgG_day 21 / weeks 2&3
+ratio:Wuhan_RBD_Variant_IgG_day 21 / weeks 2&3:Gamma_RBD_Variant_IgG_day 21 / weeks 2&3
+ratio:Wuhan_RBD_Variant_IgG_day 21 / weeks 2&3:B.1.526.2_RBD_Variant_IgG_day 21 / weeks 2&3
+ratio:Wuhan_RBD_Variant_IgG_day 21 / weeks 2&3:Alpha_RBD_Variant_IgG_day 21 / weeks 2&3
+ratio:Wuhan_RBD_Variant_IgG_day 21 / weeks 2&3:P.3_RBD_Variant_IgG_day 21 / weeks 2&3
+ratio:Wuhan_RBD_Variant_IgG_day 21 / weeks 2&3:Kappa_RBD_Variant_IgG_day 21 / weeks 2&3
+ratio:Wuhan_RBD_Variant_IgG_day 21 / weeks 2&3:Delta_RBD_Variant_IgG_day 21 / weeks 2&3

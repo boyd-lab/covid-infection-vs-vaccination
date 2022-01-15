@@ -1,0 +1,10 @@
+varname
+Wuhan_S_Wuhan_IgG_day 28 / week 4
+Wuhan_NTD_Wuhan_IgG_day 28 / week 4
+Wuhan_RBD_Wuhan_IgG_day 28 / week 4
+Wuhan_S_Wuhan_IgM_day 28 / week 4
+Wuhan_NTD_Wuhan_IgM_day 28 / week 4
+Wuhan_RBD_Wuhan_IgM_day 28 / week 4
+Wuhan_S_Wuhan_IgA_day 28 / week 4
+Wuhan_NTD_Wuhan_IgA_day 28 / week 4
+Wuhan_RBD_Wuhan_IgA_day 28 / week 4
